@@ -4,8 +4,7 @@
     "id": "1",
     "name": "Thor's hammer",
     "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
-    "image": "https://game.example/item-id-8u5h2m.png",
-    "currency": "USD"
+    "image": "https://game.example/item-id-8u5h2m.png"
   }
 ]
 }

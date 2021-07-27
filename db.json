@@ -1,0 +1,11 @@
+{
+  "items": [
+  {
+    "id": "0000000000000000000000000000000000000000000000000000000000000001",
+    "name": "Thor's hammer",
+    "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
+    "image": "https://game.example/item-id-8u5h2m.png",
+    "strength": 20
+  }
+]
+}
